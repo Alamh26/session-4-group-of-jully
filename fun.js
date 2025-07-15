@@ -10,6 +10,7 @@ function greet(name) {
 // Function declaration with default parameter
 function multiply(a = 1, b = 1) {
   return a * b;
+  a;
 }
 
 // Function declaration using rest parameters
